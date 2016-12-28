@@ -1,6 +1,6 @@
 {
   "name": "react-boilerplate",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,11 +11,7 @@
   "author": "Carlo Rizzante <hello@carlorizzante.com> (http://carlorizzante.com)",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.15.3",
     "express": "^4.14.0",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "react-router": "^3.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.20.0",
@@ -35,7 +31,10 @@
     "karma-webpack": "^1.8.0",
     "mocha": "^3.2.0",
     "node-sass": "^4.0.0",
+    "react": "^15.4.1",
     "react-addons-test-utils": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-router": "^3.0.0",
     "sass-loader": "^4.1.0",
     "script-loader": "^0.7.0",
     "style-loader": "^0.13.1",
